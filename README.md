@@ -4,7 +4,7 @@
 
 ### Java Backend Dev · GenAI Enthusiast · DSA Grinder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+REST+APIs+%7C+Microservices;GenAI+%7C+Gemini+%7C+LangChain+%7C+RAG;500%2B+LeetCode+%7C+Graphs+%7C+Trees+%7C+DP;B.Tech+CSE+(AI)+%40+PSIT+Kanpur;Targeting+Google+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+REST+APIs+%7C+Microservices;GenAI+%7C+Gemini+%7C+LangChain+%7C+RAG;500%2B+LeetCode+%7C+Graphs+%7C+Trees+%7C+DP;B.Tech+CSE+(AI)+%40+PSIT+Kanpur;+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Sanjeetyadav51?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/Sanjeetyadav51)
 [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com)
