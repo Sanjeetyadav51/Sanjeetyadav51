@@ -27,7 +27,7 @@ public class SanjeetYadav implements Developer {
 
     private final List<String> currentlyLearning = List.of(
         "Spring Security · Microservices · Docker",
-        "LangChain · RAG Pipelines · Vertex AI",
+        "LangChain · RAG Pipelines,
         "Graphs & Trees — final LeetCode chapters"
     );
 
