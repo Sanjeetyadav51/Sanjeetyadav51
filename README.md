@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sanjeet Yadav
 
-### Java Backend Dev · GenAI Enthusiast · DSA Grinder
+### Java Backend Dev · GenAI Enthusiast · DSA grinder
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+REST+APIs+%7C+Microservices;GenAI+%7C+Gemini+%7C+LangChain+%7C+RAG;500%2B+LeetCode+%7C+Graphs+%7C+Trees+%7C+DP;B.Tech+CSE+(AI)+%40+PSIT+Kanpur;+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
